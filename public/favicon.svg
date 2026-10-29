@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <!-- Dumbbell illustration -->
+  <rect x="236" y="160" width="40" height="192" rx="8" fill="url(#grad)"/>
+  <!-- Left Weight Plates -->
+  <rect x="180" y="180" width="36" height="152" rx="10" fill="#38bdf8"/>
+  <rect x="130" y="200" width="36" height="112" rx="10" fill="#60a5fa"/>
+  <!-- Right Weight Plates -->
+  <rect x="296" y="180" width="36" height="152" rx="10" fill="#38bdf8"/>
+  <rect x="346" y="200" width="36" height="112" rx="10" fill="#60a5fa"/>
+  <!-- Bar Collar rings -->
+  <circle cx="226" cy="256" r="10" fill="#93c5fd"/>
+  <circle cx="286" cy="256" r="10" fill="#93c5fd"/>
+</svg>
